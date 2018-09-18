@@ -1,2 +1,2 @@
 # CV
-My Resume - Covering basic Front-end Web Development
+My Resume - Covering Front-end Web Development
